@@ -176,4 +176,4 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python
 
 # Ignore raw datasets folder
-raw_datasets/
+all_datasets/
